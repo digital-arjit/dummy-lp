@@ -1,0 +1,7 @@
+{
+  "name": "Forever Frames | Wedding Photography & Cinematic Films",
+  "description": "Candid wedding photography and cinematic films crafted around your story. Explore our wedding stories and check your date with Forever Frames.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
